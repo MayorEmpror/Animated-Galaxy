@@ -1,4 +1,4 @@
-# Animated-Galaxy
+# Animated Galaxy By Hashir Ali
 # Animated Galaxy in Three.js and Shaders
 
 Welcome to the Animated Galaxy project! This repository showcases an interactive 3D galaxy simulation using [Three.js](https://threejs.org/) and custom shaders. Dive into the code to explore how to create mesmerizing galaxy animations with advanced graphics techniques.
